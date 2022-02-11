@@ -1,2 +1,2 @@
 # Avery
-Blockchain
+Simple project to learn Blockchain
